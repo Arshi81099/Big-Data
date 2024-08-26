@@ -1,0 +1,7 @@
+functions-framework==3.*
+google-api-core==2.19.1
+google-auth==2.32.0
+google-cloud-core==2.4.1
+google-cloud-functions==1.16.4
+google-cloud-pubsub==2.22.0
+google-cloud-storage==2.18.0
